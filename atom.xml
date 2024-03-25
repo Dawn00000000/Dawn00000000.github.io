@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dawn00000000.github.io</id>
     <title>.</title>
-    <updated>2024-03-14T10:59:18.011Z</updated>
+    <updated>2024-03-25T13:26:08.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dawn00000000.github.io"/>
     <link rel="self" href="https://dawn00000000.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://dawn00000000.github.io/images/avatar.png</logo>
     <icon>https://dawn00000000.github.io/favicon.ico</icon>
     <rights>All rights reserved 2024, .</rights>
+    <entry>
+        <title type="html"><![CDATA[目视可知]]></title>
+        <id>https://dawn00000000.github.io/post/mu-shi-ke-zhi/</id>
+        <link href="https://dawn00000000.github.io/post/mu-shi-ke-zhi/">
+        </link>
+        <updated>2024-03-25T13:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>这道题已经简单到<strong>目视</strong>就可以得出答案的程度了。</p>
+<figure data-type="image" tabindex="1"><img src="https://dawn00000000.github.io/post-images/1711371010368.png" alt="" loading="lazy"></figure>
+<h3 id="如何提交答案">如何提交答案？</h3>
+<p>发生邮件到 Dawn00000000@outlook.com，主题中需含有“目视可知”四字。</p>
+<p>看到邮件的我将会在第一时间进行回复。（这很可能需要几天）</p>
+<h3 id="奖励reward">奖励/Reward</h3>
+<p>首位答出最终答案者将会收到一枚由中国人民银行于2019年所铸的1元硬币，九成新。<strong>邮费自理</strong>。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[来自天使的题目]]></title>
         <id>https://dawn00000000.github.io/post/lai-zi-tian-shi-de-ti-mu/</id>
